@@ -1,3 +1,4 @@
+//variable
 float sinVal;
 int toneVal;
 
